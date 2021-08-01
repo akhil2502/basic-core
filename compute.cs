@@ -1,10 +1,3 @@
-﻿
-
-
-
-
-
-
 
 using System;
 public class vowles
